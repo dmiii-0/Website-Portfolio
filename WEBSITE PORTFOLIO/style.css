@@ -16,7 +16,7 @@
     50%{transform: scale(1.1, 1.1);}
 }
 @keyframes glow{
-    50%{box-shadow: 0px 0px 50px yellow;}
+    50%{box-shadow: 0px 0px 50px rgb(66, 66, 66);}
 }
 
 
@@ -42,7 +42,7 @@ header{
     text-align: center;
 }
 .navigation:hover{
-    color: #697556;
+    color: #383f6b;
 }
 body{
     background-color: #161B22;
@@ -133,7 +133,7 @@ hr{
 .certs-item:hover {
   animation-name: grow;
   animation-duration: 1s;
-  box-shadow: 0 0 12px rgba(51, 92, 226, 0.4);
+  box-shadow: 0 0 12px rgba(51, 220, 226, 0.4);
   cursor: pointer;
 }
 .project{
